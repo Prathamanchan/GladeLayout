@@ -1,0 +1,2 @@
+# GladeLayout
+Glade related files
